@@ -1,4 +1,4 @@
-# What language should we use on the live events?
+# What language should we use on the live events and GitHub?
 
 ### Balázs
 | LANG  | VAL  | 
