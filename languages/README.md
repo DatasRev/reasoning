@@ -1,10 +1,12 @@
-# What language should we use on the live events and GitHub?
+# What language should we use on the live events?
 
 ### Balázs
 | LANG  | VAL  | 
 |---|---|
 |EN   | 0  | 
 |HU   | 3  | 
+
+My opinion is if someone, who doesn't speak hungarian comes to the workshop, we'll switch to english, otherwise we won't. On githb, we could go with english and hungarian comments.
 
 ### Berci
 | LANG  | VAL  | 
