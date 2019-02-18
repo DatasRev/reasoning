@@ -6,13 +6,11 @@
 |EN   | 0  | 
 |HU   | 3  | 
 
-My opinion is if someone, who doesn't speak hungarian comes to the workshop, we'll switch to english, otherwise we won't. On githb, we could go with english and hungarian comments.
-
 ### Berci
 | LANG  | VAL  | 
 |---|---|
-|EN   | 0  | 
-|HU   | 0  | 
+|EN   | 0  |       It think there are meanings lost in translation. I saw some very respected Hungarian professionals teaching english   |HU   | 3  |        and I saw that they could not explain what they wanted well in English and used very simple sentences.                             Statistics,                      ML is very complicated taught in Hungarian, it would be much more complicated in                        English.  I would support the idea                      to hold a workshop in English for special guests.    Event logs                   could be written only in English to save writing it                     twice becasuse they are simpler texts.
+
 
 ### Dóra
 | LANG  | VAL  | 
