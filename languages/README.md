@@ -13,8 +13,9 @@ I would go with Levente's lazy rule - if someone who doesn't speak hungarian com
 | LANG  | VAL  | 
 |---|---|
 |EN   | 0  |       
+|HU   | 3  |
 
-It think there are meanings lost in translation. I saw some very respected Hungarian professionals teaching english   |HU   | 3  |        and I saw that they could not explain what they wanted well in English and used very simple sentences.                             Statistics,     ML is very complicated taught in Hungarian, it would be much more complicated in                        English.  I would support the idea  to hold a workshop in English for special guests.    Event logs                   could be written only in English to save writing it                     twice becasuse those are simpler texts.
+It think there are meanings lost in translation. I saw some very respected Hungarian professionals teaching english           and I saw that they could not explain what they wanted well in English and used very simple sentences.                             Statistics,     ML is very complicated taught in Hungarian, it would be much more complicated in                        English.  I would support the idea  to hold a workshop in English for special guests.    Event logs                   could be written only in English to save writing it                     twice becasuse those are simpler texts.
 
 ### Dóra
 | LANG  | VAL  | 
