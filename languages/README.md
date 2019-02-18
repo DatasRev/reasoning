@@ -4,7 +4,7 @@
 | LANG  | VAL  | 
 |---|---|
 |EN   | 0  | 
-|HU   | 0  | 
+|HU   | 3  | 
 
 ### Berci
 | LANG  | VAL  | 
