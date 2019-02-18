@@ -6,6 +6,8 @@
 |EN   | 0  | 
 |HU   | 3  | 
 
+I would go with Levente's lazy rule - if someone who doesn't speak hungarian comes to the workshop, we should speak english. The material on GitHub could be bilingual.
+
 ### Berci
 | LANG  | VAL  | 
 |---|---|
